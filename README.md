@@ -20,8 +20,8 @@
 - NN Regression
 - TensorFlow
 
-Validation:
+## Validation:
 
-Ideas and Insigths:
+## Ideas and Insigths:
 - http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 - https://github.com/llSourcell/Stock_Market_Prediction
