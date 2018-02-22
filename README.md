@@ -1,5 +1,8 @@
 # Data Analytics Group
 
+Link to the Guardian Headlines csv file extracted from the API
+https://goo.gl/UCXGDt
+
 ## Dataset Links and info: 
 - Date Range: 10 years
 - Enterprise: CCH (Coca Cola)
