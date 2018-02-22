@@ -4,6 +4,8 @@
 https://goo.gl/UCXGDt
 - Link to the gold price dataset for the last 10 years
 https://goo.gl/3QfoPM
+- Link to the Coca cola FTSE 100 data for the last 5 years from Yahoo finance
+https://goo.gl/JeD7pG
 
 ## Dataset Links and info: 
 - Date Range: 10 years
