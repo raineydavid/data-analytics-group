@@ -1,7 +1,9 @@
 # Data Analytics Group
 
-Link to the Guardian Headlines csv file extracted from the API
+- Link to the Guardian Headlines for the last 10 years .csv file extracted from the API
 https://goo.gl/UCXGDt
+- Link to the gold price dataset for the last 10 years
+https://goo.gl/3QfoPM
 
 ## Dataset Links and info: 
 - Date Range: 10 years
