@@ -1,11 +1,9 @@
 # Data Analytics Group
-
-- Link to the Guardian Headlines for the last 10 years .csv file extracted from the API
-https://goo.gl/UCXGDt
-- Link to the gold price dataset for the last 10 years
-https://goo.gl/3QfoPM
-- Link to the Coca cola FTSE 100 data for the last 5 years from Yahoo finance
-https://goo.gl/JeD7pG
+## Link to the folder with the datasets https://goo.gl/Wk6kGT
+### data.csv - Dataset aggregating the features to be used on the ML methods
+- Guardian_headlines.csv - Guardian Headlines for the last 10 years .csv file extracted from the API
+- gold-prices-10-year-daily-chart.csv - gold price dataset for the last 10 years
+- CCH.L.csv - Coca cola FTSE 100 data for the last 5 years from Yahoo finance
 
 ## Dataset Links and info: 
 - Date Range: 10 years
