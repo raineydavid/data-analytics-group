@@ -18,11 +18,11 @@
 ## Methods:
 - Linear Regression
 - SVM Regression
-- Random Forest
+- Random Forest (Attyla)
 - XGBoost
 - KNN
 - Naive Bayes
-- NN Regression
+- NN Regression (Attyla)
 - TensorFlow
 
 ## Validation:
